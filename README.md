@@ -1,7 +1,7 @@
 # Plate-Number-Recognition
 
 Project was made for computer vision classes.  
-The template comes from [here](https://github.com/PUTvision/ImageProcessingCourse).
+The template comes from [here](https://github.com/PUTvision/ImageProcessingCourse/tree/master/project_template_2020).
 
 Requirements:
 + python 3.7
